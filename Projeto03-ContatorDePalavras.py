@@ -1,0 +1,6 @@
+print('-' * 30)
+print(f'{'CONTADOR DE PALAVRAS':^30}')
+print('-' * 30)
+frase = str(input('Informe em uma frase algo em que você pensou hoje: '))
+qtd = len(frase.split())
+print(f'Legal! Você acabou de me dizer o que pensou usando {qtd} palavras!')

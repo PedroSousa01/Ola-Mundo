@@ -58,3 +58,8 @@ else:
 
 ## Emojis (usa-se :)
 Olá, Mundo! 🌎
+
+## Para se dar respostas, é necessário utilizar o sinal de maior (>) ou clickar nas reticências e ir em quote reply.
+> Maine Coons são ultra fofos
+
+Concordo completamente com você, caro amigo!
